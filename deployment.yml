@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app
-          image: yogramming/traffic-analyzer:15
+          image: yogramming/traffic-analyzer:17
           ports:
             - containerPort: 5000
